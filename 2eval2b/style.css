@@ -1,0 +1,64 @@
+body {
+    background-color:darksalmon;
+}
+header {
+    text-align: center;
+    color: blue;
+}
+
+input.rojo {
+    color: red;
+}
+
+h1.cripto {
+    text-decoration: Underline;
+    color: blue;
+}
+
+h3.cripto {
+    text-decoration: Underline;
+    text-align: right;
+    color: blue;
+}
+
+img {
+    width: 175px;
+    height: 175px;
+}
+
+div.rocco {
+    text-align: center;
+    background-color: yellow;
+}
+
+span.rocco {
+    color: red;
+}
+
+img.imagen1 {
+    float: right;
+}
+
+img.imagen2 {
+    float: right;
+}
+
+img.imagen3 {
+    float: right;
+}
+
+div.div1 {
+    width: 100%;
+    height: 220px;
+}
+
+div.div3 {
+    width: 100%;
+    height: 220px;
+}
+
+div.div2 {
+    width: 100%;
+    height: 220px;
+    background-color: white;
+}
